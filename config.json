@@ -1,0 +1,8 @@
+{
+  "email": "sattiofficerwp@gmail.com",
+  "password": "lmigfxajjaafxbie",
+  "from_email": "no-reply@mofa.gov.sa",
+  "subject_filter": "Saudi eVisa",
+  "save_path": "\\\\COUNTER3\\Shared Data\\Visa_Slips_Automated",
+  "check_interval": 300
+}
